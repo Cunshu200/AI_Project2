@@ -2,9 +2,9 @@ This is our AI Project 2: https://github.com/Cunshu200/AI_Project2
 
 All the project files is in the folder `World-models`. 
 
-Some key outputs are in the folder `Res`.
+Some key outputs are in the folder `res`.
 
-Project reports are in the folder `Report`.
+Project reports are in the folder `report`.
 
 Thank you. 
 
