@@ -11,3 +11,7 @@ https://applied-data.science/blog/hallucinogenic-deep-reinforcement-learning-usi
 # Building with Docker
 
 See `Dockerfile.cpu` and `launch-docker-cpu.sh` or equivalent GPU files for instructions.
+
+# Results
+
+Please view the files in the "results" folder, there are our documentations and some outputs.
