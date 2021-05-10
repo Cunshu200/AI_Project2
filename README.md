@@ -1,17 +1,13 @@
-# WorldModels
-An implementation of the ideas from this paper https://arxiv.org/pdf/1803.10122.pdf
+This is our AI Project 2: https://github.com/Cunshu200/AI_Project2
 
-Code base adapted from https://github.com/hardmaru/estool
+All the project file is in the folder `world-models`. 
+Project reports and some key output are in the folder `res`.
 
-For full installation and run instructions see this blog post:
-
-https://applied-data.science/blog/hallucinogenic-deep-reinforcement-learning-using-python-and-keras
+Thank you. 
 
 
-# Building with Docker
 
-See `Dockerfile.cpu` and `launch-docker-cpu.sh` or equivalent GPU files for instructions.
-
-# Results
-
-Please view the files in the "results" folder, there are our documentations and some outputs.
+Team member:
+Qian Kuang	qk2004
+Cunshu Ni	cn2139
+Haike Xie	hx2084
